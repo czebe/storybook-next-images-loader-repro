@@ -1,0 +1,1 @@
+# storybook-next-images-loader-repro
